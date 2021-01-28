@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[17],{hZQ8:function(e,a,t){"use strict";t.r(a);var n=t("q1tI"),l=t.n(n),r=t("tsJN"),s=t("cPnb"),c=t("E00f");a.default=function(e){var a=e.data,t=e.pageContext,n=e.path,o=t.tag,u=a.allMarkdownRemark.edges,d='All Courses tagged as "'+o+'"';return l.a.createElement(r.a,{title:d,slug:n},l.a.createElement(c.a,null,l.a.createElement(s.a,{edges:u,title:o})))}}}]);
+//# sourceMappingURL=component---src-templates-tag-template-js-2fef859ad0f2aea3b503.js.map
